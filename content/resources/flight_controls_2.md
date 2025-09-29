@@ -7,6 +7,8 @@ description: 'This file contains information about the topics: General Approach 
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/de14f682fa69f4e7379d7ae861f7f4a2_flight_controls_2.pdf
 file_size: 2310400
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

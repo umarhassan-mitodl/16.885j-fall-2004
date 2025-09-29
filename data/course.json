@@ -33,6 +33,7 @@
     "website": "16-885j-aircraft-systems-engineering-fall-2004"
   },
   "course_title": "Aircraft Systems Engineering",
+  "hide_download": true,
   "course_description": "Aircraft are complex products comprised of many subsystems which must meet demanding customer and operational lifecycle value requirements. This course adopts a holistic view of the aircraft as a system, covering: basic systems engineering; cost and weight estimation; basic aircraft performance; safety and reliability; lifecycle topics; aircraft subsystems; risk analysis and management; and system realization. Small\u00a0student teams \"retrospectively analyze\" an existing aircraft covering: key design drivers and decisions; aircraft attributes and subsystems; and\u00a0operational experience. Finally, the student teams\u00a0deliver\u00a0oral and written versions of the case study.\n",
   "department_numbers": [
     "16",
@@ -44,6 +45,7 @@
     "content": "d6091cb8-56f5-2a2d-e0ae-b41691dfd2c5",
     "website": "16-885j-aircraft-systems-engineering-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

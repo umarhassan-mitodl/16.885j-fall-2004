@@ -5,6 +5,8 @@ description: This file contains notes for shuttle history, top requirements, shu
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/2d28543c07713143bc0f7f9f86412f49_shuttle_hist.pdf
 file_size: 70417
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

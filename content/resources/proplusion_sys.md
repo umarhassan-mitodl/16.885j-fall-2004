@@ -5,6 +5,8 @@ description: 'This file contains notes for thrust sizing requirements, overall e
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/c6368c8ae537008c0be6a4aa7226621f_proplusion_sys.pdf
 file_size: 831736
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
