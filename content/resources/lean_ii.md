@@ -5,8 +5,6 @@ description: 'This file covers topics: Systems Engineering and Lean Thinking, Si
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/b790ba67dfe4a122f9b4d61202d1cad7_lean_ii.pdf
 file_size: 1789617
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

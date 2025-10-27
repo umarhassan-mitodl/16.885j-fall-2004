@@ -5,8 +5,6 @@ description: This file contains the biography of Brian D. Kelly, Technical Fello
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/bed1f9cecec6d0fd7343a25f5f1b0ade_brian_kelly_bio.pdf
 file_size: 43049
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: 'This file contains notes for the topics: Systems Engineering and L
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/c3b7f9e46f4ce063e280ba3555c314dd_21_lean_se.pdf
 file_size: 448514
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This file contains notes for the topics: Lifecycle cost, Operating
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/dfeae3bb47e8b5e6b562a0159ee2cccb_pres_willcox.pdf
 file_size: 433279
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

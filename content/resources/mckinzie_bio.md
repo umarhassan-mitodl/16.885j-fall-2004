@@ -5,8 +5,6 @@ description: This file contains the biography for Gordon McKinzie Manager, New A
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/becde51f29171efedba91402e3d816ae_mckinzie_bio.pdf
 file_size: 86275
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

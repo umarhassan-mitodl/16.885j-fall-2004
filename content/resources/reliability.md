@@ -6,8 +6,6 @@ description: 'This file covers topics: Safety, Certification, Federal Aviation R
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/dfa11eb9df7ae237f82e8a097dfaa885_reliability.pdf
 file_size: 1786480
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

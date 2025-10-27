@@ -4,8 +4,6 @@ description: This file contains biography for Commander Paul A. Sohl, USN.
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/7da50e7038fe233a0c3d5dd85d8ba57f_paul_sohl_bio.pdf
 file_size: 68160
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

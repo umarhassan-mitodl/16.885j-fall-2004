@@ -5,8 +5,6 @@ description: 'This file contains the topics: What is the lifecycle of an Aircraf
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/dfa9b0c31db9231fa8f0747caf20b44f_lifecycle.pdf
 file_size: 1849722
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This file contains information about overview of environmental effe
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/60b9ec8d434df25ab86c965d853b3ed2_envir_factors2_1.pdf
 file_size: 2271549
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

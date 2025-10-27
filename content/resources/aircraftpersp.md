@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/361fccc97fce986d33df0d4b8d17cc2c_aircraftpersp.pdf
 file_size: 260297
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: Lecture Notes section contains lecture notes and biographies of selected
   guest lecturers.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

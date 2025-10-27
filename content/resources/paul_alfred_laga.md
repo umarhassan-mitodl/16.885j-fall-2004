@@ -9,8 +9,6 @@ description: 'This file contains biography for Paul Alfred Lagace, margaret MacV
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/ab3c1c4bb378503df3bde596a93a1f65_paul_alfred_laga.pdf
 file_size: 33790
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

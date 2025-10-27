@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/ce2207b73de476214f5706bb22761ae9_RJH_Bio.pdf
 file_size: 59974
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
